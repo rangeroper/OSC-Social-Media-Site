@@ -1,4 +1,5 @@
 # MERN based social media platform
+https://imgur.com/a/0cea97h
 
 A simple social media platform built for collaborators and entrepreneurs;  Currently implemented basic CRUD functionality including users, posts, likes and comments - developed using React, Node, Express and MongoDB leveraging the full MERN stack.  
 
