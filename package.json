@@ -21,7 +21,6 @@
     "development": "nodemon",
     "build": "webpack --config webpack.config.client.production.js && webpack --mode=production --config webpack.config.server.js",
     "start": "NODE_ENV=production node ./dist/server.generated.js",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
   },
   "engines": {
     "node": "14.10.1",
@@ -61,6 +60,7 @@
     "react-hot-loader": "4.12.20",
     "react-linkify": "^1.0.0-alpha",
     "react-router": "5.1.2",
-    "react-router-dom": "5.1.2"
+    "react-router-dom": "5.1.2",
+    "webpack": "4.42.1"
   }
 }
