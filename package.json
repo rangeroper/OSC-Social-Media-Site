@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.12.3",
+    "@babel/preset-react": "^7.12.1",
     "@hot-loader/react-dom": "16.13.0",
     "@material-ui/core": "4.9.8",
     "@material-ui/icons": "4.9.1",
@@ -50,7 +51,7 @@
     "mongoose": "5.9.7",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-hot-loader": "4.12.20",
+    "react-hot-loader": "4.12.21",
     "react-linkify": "^1.0.0-alpha",
     "react-router": "5.1.2",
     "react-router-dom": "5.1.2",
